@@ -5,5 +5,7 @@ setuptools
 pymongo
 certifi
 datetime
+pymongo[srv]==3.6
+pymongo
 
 #-e .
